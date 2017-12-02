@@ -1,0 +1,14 @@
+{
+	"name" : "Advent Of Code 2017",
+	"require-dev" : {
+		"phpspec/phpspec" : "^4.2"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Advent\\" : "src/"
+		}
+	},
+	"config" : {
+		"sort-packages" : "true"
+	}
+}
