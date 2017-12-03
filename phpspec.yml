@@ -1,0 +1,5 @@
+suites:
+    advent_suite:
+        namespace: Advent
+        psr4_prefix: Advent
+        src_path: src
